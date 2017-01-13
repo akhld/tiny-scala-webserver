@@ -2,4 +2,4 @@
 
 - To start the server:
 
-`sbt 'run 8080'`
+    `$ sbt 'run 8080'`
